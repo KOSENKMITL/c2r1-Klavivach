@@ -1,108 +1,157 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/N1I0ox8v)
-# :wave: The Basics of GitHub 
+<p align="center">
+  <a href="https://github.com/MABiuS1">
+    <!-- ใส่รูป cover ส่วนตัวที่นี่ถ้ามี หรือใช้โลโก้โปรเจกต์ -->
+    <img src="https://github.com/MABiuS1.png" width="140" style="border-radius:50%" alt="Klavivach Prajong" />
+  </a>
+</p>
 
-## 🤓 Course overview and learning outcomes 
+<p align="center">
+  <!-- Typing SVG -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20%26%20Mobile%20Developer;React%20Native%20%7C%20Next.js%20%7C%20NestJS%20%7C%20Golang;IoT%20%26%20ESP32%20maker;Software%20Engineering%20@%20MFU;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=600&height=45&color=F85D7F&vCenter=true&pause=1000&size=22"/>
+  </a>
+</p>
 
-The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
+<!-- Social icons (แก้ลิงก์ให้เป็นของคุณได้เลย) -->
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/REPLACE_LINKEDIN"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <!-- X/Twitter -->
+  <a href="https://x.com/REPLACE_TWITTER"><img width="32px" alt="X" title="X (Twitter)" src="https://i.imgur.com/AixJgnm.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <!-- Dev.to -->
+  <a href="https://dev.to/REPLACE_DEVTO"><img width="32px" alt="Dev.to" title="Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <!-- Email -->
+  <a href="mailto:REPLACE_EMAIL" title="Email"><img width="32px" src="https://custom-icon-badges.demolab.com/badge/-Email-1F6FEB?style=for-the-badge&logo=mail&logoColor=white" /></a>
+</p>
 
-## :octocat: Git and GitHub
+<br/>
 
-Git is a **distributed Version Control System (VCS)**, which means it is a useful tool for easily tracking changes to your code, collaborating, and sharing. With Git you can track the changes you make to your project so you always have a record of what you’ve worked on and can easily revert back to an older version if need be. It also makes working with others easier—groups of people can work together on the same project and merge their changes into one final source!
+<!-- Social badges -->
+<p align="center">
+  <a href="https://github.com/MABiuS1?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MABiuS1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  </a>
+  <a href="https://github.com/MABiuS1?tab=followers">
+    <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/MABiuS1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views/?user=MABiuS1"/>
+  </a>
+</p>
 
-GitHub is a way to use the same power of Git all online with an easy-to-use interface. It’s used across the software world and beyond to collaborate and maintain the history of projects.
+---
 
-GitHub is home to some of the most advanced technologies in the world. Whether you're visualizing data or building a new game, there's a whole community and set of tools on GitHub that can get you to the next step. This course starts with the basics of GitHub, but we'll dig into the rest later.
+### 👋 Hi, I'm Klavivach (Mabius)
+- 4th-year **Software Engineering** @ **Mae Fah Luang University (MFU)**
+- Building **mobile apps** (React Native/Expo), **web** (Next.js), **backend** (NestJS/Golang), and **IoT** with **ESP32**
+- Interests: Air-quality & geospatial apps, student community apps, analytics dashboards, and developer tooling
 
-## :octocat: Understanding the GitHub flow 
+---
 
-The GitHub flow is a lightweight workflow that allows you to experiment and collaborate on your projects easily, without the risk of losing your previous work.
+<details open>
+  <summary><h2>📘 Top Open Source Projects</h2></summary>
 
-### Repositories
+  <!-- Repo info cards -->
+  <p align="left">
+    <a href="https://github.com/franz1us/Yakkaw-Mobile-Application"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=franz1us&repo=Yakkaw-Mobile-Application&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Yakkaw-Mobile-Application"></a>
+    <a href="https://github.com/MABiuS1/HLLC"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MABiuS1&repo=HLLC&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="HLLC"></a>
+    <a href="https://github.com/FulnFinz/FulnFinz-Digital-Matchmaking"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FulnFinz&repo=FulnFinz-Digital-Matchmaking&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="FulnFinz-Digital-Matchmaking"></a>
+    <a href="https://github.com/MABiuS1/Stockify-Line-Bot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MABiuS1&repo=Stockify-Line-Bot&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Stockify-Line-Bot"></a>
+  </p>
 
-A repository is where your project work happens--think of it as your project folder. It contains all of your project’s files and revision history.  You can work within a repository alone or invite others to collaborate with you on those files.
+  <a href="https://github.com/MABiuS1?tab=repositories&sort=stargazers">
+    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+  </a>
+</details>
 
-### Cloning 
+<details open>
+  <summary><h2>🛠️ Favorite Tools</h2></summary>
 
-When a repository is created with GitHub, it’s stored remotely in the ☁️. You can clone a repository to create a local copy on your computer and then use Git to sync the two. This makes it easier to fix issues, add or remove files, and push larger commits. You can also use the editing tool of your choice as opposed to the GitHub UI. Cloning a repository also pulls down all the repository data that GitHub has at that point in time, including all versions of every file and folder for the project! This can be helpful if you experiment with your project and then realize you liked a previous version more. 
-To learn more about cloning, read ["Cloning a Repository"](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository). 
+  <h3>👨‍💻 Languages</h3>
+  <p>
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+    <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
+    <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
+  </p>
 
-### Committing and pushing
-**Committing** and **pushing** are how you can add the changes you made on your local machine to the remote repository in GitHub. That way your instructor and/or teammates can see your latest work when you’re ready to share it. You can make a commit when you have made changes to your project that you want to “checkpoint.” You can also add a helpful **commit message** to remind yourself or your teammates what work you did (e.g. “Added a README with information about our project”).
+  <h3>🧰 Frameworks / Libraries</h3>
+  <p>
+    <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
+    <img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232a.svg?logo=react&logoColor=%2361DAFB">
+    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=next.js&logoColor=white">
+    <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs&logoColor=white">
+    <img alt="Expo" src="https://img.shields.io/badge/Expo-000020.svg?logo=expo&logoColor=white">
+    <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-0EA5E9.svg?logo=tailwindcss&logoColor=white">
+    <img alt="Reanimated" src="https://img.shields.io/badge/Reanimated-000000.svg?logo=react&logoColor=white">
+  </p>
 
-Once you have a commit or multiple commits that you’re ready to add to your repository, you can use the push command to add those changes to your remote repository. Committing and pushing may feel new at first, but we promise you’ll get used to it 🙂
+  <h3>🗄️ Databases & Cloud</h3>
+  <p>
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
+    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white">
+    <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000.svg?logo=vercel&logoColor=white">
+    <img alt="Render" src="https://img.shields.io/badge/Render-00979D.svg?logo=render&logoColor=white">
+  </p>
 
-## 💻 GitHub terms to know 
+  <h3>💻 DevTools</h3>
+  <p>
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
+    <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white">
+    <img alt="SonarQube" src="https://img.shields.io/badge/SonarQube-4E9BCD.svg?logo=sonarqube&logoColor=white">
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white">
+    <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D.svg?logo=arduino&logoColor=white">
+    <img alt="ESP32" src="https://custom-icon-badges.demolab.com/badge/ESP32-333?logo=esp32&logoColor=white">
+  </p>
+</details>
 
-### Repositories 
-We mentioned repositories already, they are where your project work happens, but let’s talk a bit more about the details of them! As you work more on GitHub you will have many repositories which may feel confusing at first. Fortunately, your ["GitHub dashboard"](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/about-your-personal-dashboard) helps to easily navigate to your repositories and see useful information about them. Make sure you’re logged in to see it!
+<details open>
+  <summary><h2>📊 Stats & Activity</h2></summary>
 
-Repositories also contain **README**s. You can add a README file to your repository to tell other people why your project is useful, what they can do with your project, and how they can use it. We are using this README to communicate how to learn Git and GitHub with you. 😄 
-To learn more about repositories read ["Creating, Cloning, and Archiving Repositories](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-repositories) and ["About README's"](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-readmes). 
+  <h3>🔥 Streak Stats</h3>
+  <p>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile" alt="Streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=MABiuS1&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+    </a>
+  </p>
 
-### Branches
-You can use branches on GitHub to isolate work that you do not want merged into your final project just yet. Branches allow you to develop features, fix bugs, or safely experiment with new ideas in a contained area of your repository. Typically, you might create a new branch from the default branch of your repository—main. This makes a new working copy of your repository for you to experiment with. Once your new changes have been reviewed by a teammate, or you are satisfied with them, you can merge your changes into the default branch of your repository.
-To learn more about branching, read ["About Branches"](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-branches).
+  <h3>💻 GitHub Profile Stats</h3>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Stats" height="192px" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=MABiuS1&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Top Langs" height="192px" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MABiuS1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff"/>
+  </a>
+  <br/>
 
-### Forks
-A fork is another way to copy a repository, but is usually used when you want to contribute to someone else’s project. Forking a repository allows you to freely experiment with changes without affecting the original project and is very popular when contributing to open source software projects!
-To learn more about forking, read ["Fork a repo"](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)
+  <!-- Activity Graph -->
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MABiuS1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
+  </a>
 
-### Pull requests
-When working with branches, you can use a pull request to tell others about the changes you want to make and ask for their feedback. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add more changes if need be. You can add specific people as reviewers of your pull request which shows you want their feedback on your changes! Once a pull request is ready-to-go, it can be merged into your main branch.
-To learn more about pull requests, read ["About Pull Requests"](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests). 
+</details>
 
+<details>
+  <summary><h2>🎯 Focused Projects (What I'm building)</h2></summary>
 
-### Issues
-Issues are a way to track enhancements, tasks, or bugs for your work on GitHub. Issues are a great way to keep track of all the tasks you want to work on for your project and let others know what you plan to work on. You can also use issues to tell a favorite open source project about a bug you found or a feature you think would be great to add!
+- 🧭 **Yakkaw** — Air-quality & ranking platform with interactive maps (React Native + sensor data)  
+  Repo (mobile): https://github.com/franz1us/Yakkaw-Mobile-Application
+- 🏫 **HLLC** — Campus app: steps, chat, e-voucher, coin hunting  
+  Repo: https://github.com/MABiuS1/HLLC
+- 📈 **Stockify** — Line bot for stock analysis  
+  Repo: https://github.com/MABiuS1/Stockify-Line-Bot
 
-For larger projects, you can keep track of many issues on a project board. GitHub Projects help you organize and prioritize your work and you can read more about them [in this "About Project boards document](https://docs.github.com/en/github/managing-your-work-on-github/about-project-boards). You likely won’t need a project board for your assignments, but once you move on to even bigger projects, they’re a great way to organize your team’s work!
-You can also link together pull requests and issues to show that a fix is in progress and to automatically close the issue when someone merges the pull request.
-To learn more about issues and linking them to your pull requests, read ["About Issues"](https://docs.github.com/en/github/managing-your-work-on-github/about-issues). 
+</details>
 
-### Your user profile
+---
 
-Your profile page tells people the story of your work through the repositories you're interested in, the contributions you've made, and the conversations you've had. You can also give the world a unique view into who you are with your profile README. You can use your profile to let future employers know all about you! 
-To learn more about your user profile and adding and updating your profile README, read ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme). 
-
-### Using markdown on GitHub 
-
-You might have noticed already, but you can add some fun styling to your issues, pull requests, and files. ["Markdown"](https://guides.github.com/features/mastering-markdown/) is an easy way to style your issues, pull requests, and files with some simple syntax. This can be helpful to organize your information and make it easier for others to read. You can also drop in gifs and images to help convey your point!
-To learn more about using GitHub’s flavor of markdown, read ["Basic Writing and Formatting Syntax"](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax). 
-
-### Engaging with the GitHub community
-
-The GitHub community is vast. There are many types of people who use GitHub in their day to day—students like you, professional developers, hobbyists working on open source projects, and explorers who are just jumping into the world of software development on their own. There are many ways you can interact with the larger GitHub community, but here are three places where you can start. 
-
-#### Starring repositories 
-
-If you find a repository interesting or you want to keep track of it, star it! When you star a repository it’s also used as a signal to surface better recommendations on github.com/explore. If you’d like to get back to your starred repositories you can do so via your user profile. 
-To learn  more about starring repositories, read ["Saving Repositories with Stars"](https://docs.github.com/en/github/getting-started-with-github/saving-repositories-with-stars). 
-
-#### Following users 
-
-You can follow people on GitHub to receive notifications about their activity and discover projects in their communities. When you follow a user, their public GitHub activity will show up on your dashboard so you can see all the cool things they are working on. 
-To learn more about following users, read ["Following People"](https://docs.github.com/en/github/getting-started-with-github/following-people).
-
-#### Browsing GitHub Explore 
-
-GitHub Explore is a great place to do just that … explore :smile: You can find new projects, events, and developers to interact with.
-
-You can check out the GitHub Explore website [at github.com/explore](https://github.com/explore). The more you interact with GitHub the more tailored your Explore view will be. 
-
-## 📝 Optional next steps 
-
-* Open a pull request and let your teacher know that you’ve finished this course.  
-* Create a new markdown file in this repository. Let them know what you learned and what you are still confused about! Experiment with different styles!
-* Create your profile README. Let the world know a little bit more about you! What are you interested in learning? What are you working on? What's your favorite hobby? Learn more about creating your profile README in the document, ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
-* Go to your user dashboard and create a new repository. Experiment with the features within that repository to familiarize yourself with them. 
-* [Let us know what you liked or didn’t like about the content of this course](https://support.github.com/contact/education). What would you like to see more of? What would be interesting or helpful to your learning journey? 
-
-## 📚  Resources 
-* [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
-* [Git and GitHub learning resources](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources) 
-* [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-* [How to use GitHub branches](https://www.youtube.com/watch?v=H5GJfcp3p4Q&feature=youtu.be)
-* [Interactive Git training materials](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class)
-* [GitHub's Learning Lab](https://lab.github.com/)
-* [Education community forum](https://education.github.community/)
-* [GitHub community forum](https://github.community/)
+<p align="center">
+  <i>“Bridging code, community, and clean design — one commit at a time.”</i><br/>
+  <a href="mailto:REPLACE_EMAIL">Contact me</a> • <a href="https://github.com/MABiuS1?tab=repositories">See my work</a>
+</p>
